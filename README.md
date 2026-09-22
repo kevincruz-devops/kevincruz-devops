@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Cruz 👋
+# Hi, I'm Kevin 👋
 
 ## Senior DevOps Engineer | AWS | Azure | Kubernetes | Terraform
 
@@ -141,14 +141,6 @@ Capabilities include:
 
 💼 LinkedIn:
 https://www.linkedin.com/in/kevin-cruz----------/
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevincruz-devops\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincruz-devops\&layout=compact)
 
 ---
 
